@@ -1,0 +1,65 @@
+.indexImg {
+    height:600px;
+}
+.indexImg img{
+    height:600px;
+}
+
+/* 行业交流 开始  */
+.industry-box {
+    width:100%;
+    /* height:1880px; */
+    background-color: #f3f3f3;
+    margin-top:60px;
+    margin-bottom:60px;
+    border:1px solid transparent;
+    padding-bottom:35px;
+}
+
+.industry {
+    margin-top:20px;
+}
+.industry>p{
+    height:50px;
+    line-height:50px;
+    font-size:18px;
+    color:#333;
+    font-family: "黑体";
+}
+.industry .lastp {
+    border-bottom:1px solid #ccc;
+}
+.lastp>span {
+    display:inline-block;
+    height:100%;
+    padding-right: 10px;
+    margin-right:15px;
+}
+ .industry .line {
+    border-bottom:1px solid #182e46;
+}
+.industy-list {
+    width:100%;
+    overflow: hidden;
+    /* border:1px solid blue; */
+    margin-top:30px;
+}
+.industy-list li {
+    float:left;
+    width:400px;
+    height:215px;
+    /* border:1px solid red; */
+    margin-top:20px;
+    margin-right:20px;
+}
+.industy-list li>img {
+    width:400px;
+    height:215px;
+}
+.industy-list li:nth-child(3n) {
+    margin-right:0;
+}
+
+/*  行业交流 结束*/
+
+

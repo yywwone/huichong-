@@ -1,0 +1,250 @@
+    .indexImg {
+        height:600px;
+    }
+    .indexImg img{
+        height:600px;
+    }
+
+/*  慧崇简介*/
+    .part3 {
+        width:100%;
+        height:787px;
+        background-color: #f3f3f3;
+        margin-top:60px;
+        padding-top:30px;
+       
+    }
+    .part3Header>p{
+        height:50px;
+        line-height:50px;
+        font-size:18px;
+        color:#333;
+        font-family: "黑体";
+    }
+    .part3Header .lastp {
+        border-bottom:1px solid #ccc;
+    }
+    .lastp>span {
+        display:inline-block;
+        height:100%;
+        padding-right: 10px;
+        margin-right:15px;
+    }
+     .part3Header .line {
+        border-bottom:1px solid #182e46;
+    }
+    .knownmore {
+        width:100%;
+        /* height:550px; */
+        background-color: #fff;
+        margin-top:50px;
+        padding-bottom:45px;
+    }
+    .knownmore .img {
+        width:100%;
+        height:350px;
+    }
+    .knownmore .img>img {
+        width:1280px;
+        height:350px;
+    }
+    .knowp {
+        margin-top:15px;
+        padding-left:35px;
+        padding-right:45px;
+        margin-bottom:20px;
+        /* border:1px solid red; */
+        height:80px;
+    
+    }
+    .knowp>p {
+        font-size:16px;
+        color:#333;
+        height:30px;
+        line-height:30px;
+    }
+    .knownmore>p {
+        width: 100%;
+        /* border:1px solid red; */
+        text-align: center;
+        
+    }
+    .knownmore a {
+        display:inline-block;
+        width:320px;
+        height:55px;
+        line-height:55px;
+        text-align: center;
+        color:#fff;
+        background-color: #0c7bc0;
+        font-size:18px;
+        /* border:none; */
+        /* margin:0 auto; */
+    }
+/*  慧崇简介 结束 */
+
+/* 合伙人团队介绍 开始 */
+    .part4 {
+        width:100%;
+        /* height:710px; */
+        background-color: #fff;
+        margin-top:60px;
+        /* padding-top:30px; */
+        padding-bottom:65px;
+    }
+    .part4Header>p{
+        height:50px;
+        line-height:50px;
+        font-size:18px;
+        color:#0c7cbe;
+        font-family: "黑体";
+    }
+    .part4Header .lastp {
+        border-bottom:1px solid #ccc;
+    }
+    .lastp>span {
+        display:inline-block;
+        height:100%;
+        padding-right: 10px;
+        margin-right:15px;
+    }
+    .part4Header .line {
+        border-bottom:1px solid #0c7cbe;
+    }
+    .lastp .float {
+        float:right;
+        color:#0c7cbe;
+    }
+    .partnerBox {
+        width:100%;
+        /* border:1px solid red; */
+        margin-top:35px;
+    }
+    .partnerBox>div {
+        display:inline-block;
+        width:400px;
+        height:490px;
+        border:1px solid #ccc;
+        vertical-align: top;
+    }
+    .partnerBox>div:not(:first-child) {
+        margin-left:29px;
+    }
+    .hedimg {
+        width:400px;
+        height:305px;
+    }
+    .hedimg>img {
+        display:block;
+        width:400px;
+        height:305px;
+    }
+    .partfoot {
+        width:100%;
+        height:165px;
+        line-height:40px;
+        color:#333;
+        padding-top:20px;
+        font-size:18px;
+    }
+    .partfoot p {
+        text-align: center;
+    }
+    .partfoot a {
+        display:inline-block;
+        width:150px;
+        height:40px;
+        line-height:40px;
+        background-color: #0c7cbe;
+        color:#fff;
+        border:1px solid #fff;
+    }
+    .partfoot p:last-child {
+        margin-top:10px;
+    }
+
+    .partfoot:hover {
+        background-color: #0c7cbe;
+        color:#fff;
+        transition: all 1s linear 0;
+    }
+  
+    .part4active {
+        background-color: #0c7cbe;
+        color:#fff;
+    }
+
+/* 合伙人团队介绍 结束 */
+
+/* 业务范围 开始 */
+.part5 {
+    height:700px;
+    width:100%;
+    background-color: #f3f3f3;
+    padding-top:30px;
+    margin-bottom:60px;
+}
+.part5Header>p{
+    height:50px;
+    line-height:50px;
+    font-size:18px;
+    color:#333;
+    font-family: "黑体";
+}
+.part5Header .lastp {
+    border-bottom:1px solid #ccc;
+}
+ .part5Header .line {
+    border-bottom:1px solid #182e46;
+}
+.part5-list {
+    overflow: hidden;
+    width:100%;
+    /* border:1px solid red; */
+}
+.part5-list li {
+    float:left;
+    width: 373px;
+    height:206px;
+    line-height: 206px;
+    /* border:1px solid blue; */
+    margin-right:77px;
+    margin-top:30px;
+    font-size:24px;
+    color:#fff;
+    text-align: center;
+   
+}
+.part5-list li:nth-child(3n+0) {
+    margin-right:0px;
+}
+.part5-list li:first-child {
+    background-image: url("../images/img05.png");
+    background-repeat: no-repeat;
+}
+.part5-list li:nth-child(2) {
+    background-image: url("../images/img06.png");
+    background-repeat: no-repeat;
+}
+.part5-list li:nth-child(3) {
+    background-image: url("../images/img07.png");
+    background-repeat: no-repeat;
+}
+.part5-list li:nth-child(4) {
+    background-image: url("../images/img08.png");
+    background-repeat: no-repeat;
+}
+.part5-list li:nth-child(5) {
+    background-image: url("../images/img09.png");
+    background-repeat: no-repeat;
+}
+.part5-list li:nth-child(6) {
+    background-image: url("../images/img10.png");
+    background-repeat: no-repeat;
+}
+.lastp .flright {
+    float:right;
+    color:#333;
+}
+/* 业务范围 结束 */
+

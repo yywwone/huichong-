@@ -1,0 +1,101 @@
+
+ .indexImg {
+    height:600px;
+}
+.indexImg img{
+    height:600px;
+}
+/* 合伙人团队介绍 开始 */
+.part4 {
+    width:100%;
+    /* height:710px; */
+    background-color: #fff;
+    margin-top:60px;
+    /* padding-top:30px; */
+    padding-bottom:65px;
+}
+.part4Header>p{
+    height:50px;
+    line-height:50px;
+    font-size:18px;
+    color:#0c7cbe;
+    font-family: "黑体";
+}
+.part4Header .lastp {
+    border-bottom:1px solid #ccc;
+}
+.lastp>span {
+    display:inline-block;
+    height:100%;
+    padding-right: 10px;
+    margin-right:15px;
+}
+.part4Header .line {
+    border-bottom:1px solid #0c7cbe;
+}
+.lastp .float {
+    float:right;
+    color:#0c7cbe;
+}
+.partnerBox {
+    width:100%;
+    /* border:1px solid red; */
+    margin-top:35px;
+}
+.partnerBox>div {
+    display:inline-block;
+    width:400px;
+    height:490px;
+    border:1px solid #ccc;
+    vertical-align: top;
+    margin-right:29px;
+    margin-bottom: 60px;
+}
+.partnerBox>div:nth-child(3n) {
+    margin-right:0px;
+}
+.hedimg {
+    width:400px;
+    height:305px;
+}
+.hedimg>img {
+    display:block;
+    width:400px;
+    height:305px;
+}
+.partfoot {
+    width:100%;
+    height:165px;
+    line-height:40px;
+    color:#333;
+    padding-top:20px;
+    font-size:18px;
+}
+.partfoot p {
+    text-align: center;
+}
+.partfoot a {
+    display:inline-block;
+    width:150px;
+    height:40px;
+    line-height:40px;
+    background-color: #0c7cbe;
+    color:#fff;
+    border:1px solid #fff;
+}
+.partfoot p:last-child {
+    margin-top:10px;
+}
+
+.partfoot:hover {
+    background-color: #0c7cbe;
+    color:#fff;
+    transition: all 1s linear 0;
+}
+
+.part4active {
+    background-color: #0c7cbe;
+    color:#fff;
+}
+
+/* 合伙人团队介绍 结束 */

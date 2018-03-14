@@ -1,0 +1,49 @@
+.indexImg {
+    height:600px;
+}
+.indexImg img{
+    height:600px;
+}
+
+/*惠崇简介 开始  */
+.briefbox {
+    width:100%;
+    height:560px;
+    background-color: #f3f3f3;
+    margin-top:60px;
+    border:1px solid transparent;
+    margin-bottom:60px;
+}
+.brief {
+    margin-top:20px;
+}
+.brief>p{
+    height:50px;
+    line-height:50px;
+    font-size:18px;
+    color:#333;
+    font-family: "黑体";
+}
+.brief .lastp {
+    border-bottom:1px solid #ccc;
+}
+.lastp>span {
+    display:inline-block;
+    height:100%;
+    padding-right: 10px;
+    margin-right:15px;
+}
+ .brief .line {
+    border-bottom:1px solid #182e46;
+}
+.brief-font {
+    font-size:16px;
+    color:#767676;
+    margin-top:50px;
+}
+.brief-font p {
+    text-indent: 32px;
+    line-height:35px;
+}
+
+/* 惠崇简介 结束 */

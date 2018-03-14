@@ -1,0 +1,63 @@
+.headbox {
+   width:100%;
+   height:70px;
+   background-color: #000;
+   color:#fff;
+   border:1px solid transparent;
+   position:fixed;
+}
+.headCenter {
+    position: relative;
+    /* overflow: hidden; */
+    height:100%;
+    /* border:1px solid red; */
+}
+.headL {
+    width:310px;
+    height:16px;
+    margin-top:20px;
+    float: left;
+}
+.headR {
+    float: left; 
+    font-size:16px;
+    margin-top:27px;
+    /* border:1px solid red; */
+}
+.headR a {
+    display:inline-block;
+    width:97px;
+    height:18px;
+    line-height: 18px;
+    text-align: center;
+    color:#fff;
+}
+.headR .heactive {
+    color:#0c7bc0;
+}
+.headR b {
+    display:inline-block;
+}
+.headR .freeline {
+    width:240px;
+}
+.navlist1{
+    position: absolute;
+    width:125px;
+    /* height:168px; */
+    /* border:1px solid red; */
+    background-color: #000;
+    top: 71px;
+    right: 410px;
+    display:none;
+}
+.navlist1 a {
+    display:block;
+    color:#fff;
+    font-size: 16px;
+    height:40px;
+    line-height: 40px;
+    text-align: center;
+    /* border:1px solid red; */
+}
+

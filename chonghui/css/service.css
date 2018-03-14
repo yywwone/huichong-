@@ -1,0 +1,81 @@
+.indexImg {
+    height:600px;
+}
+.indexImg img{
+    height:600px;
+}
+
+/* 服务企业 开始  */
+    .service-box {
+        width:100%;
+        /* height:1880px; */
+        background-color: #f3f3f3;
+        margin-top:60px;
+        margin-bottom:60px;
+        border:1px solid transparent;
+        padding-bottom:35px;
+    }
+
+    .service {
+        margin-top:20px;
+    }
+    .service>p{
+        height:50px;
+        line-height:50px;
+        font-size:18px;
+        color:#333;
+        font-family: "黑体";
+    }
+    .service .lastp {
+        border-bottom:1px solid #ccc;
+    }
+    .lastp>span {
+        display:inline-block;
+        height:100%;
+        padding-right: 10px;
+        margin-right:15px;
+    }
+    .service .line {
+        border-bottom:1px solid #182e46;
+    }
+    .service-list {
+        width:100%;
+        height:435px;
+        margin-top:30px;
+    }
+    .service-left {
+        display:inline-block;
+        width:297px;
+        height:100%;
+        border:1px solid transparent;
+        vertical-align: top;
+    }
+    .service-left>img {
+        width:297px;
+        height:435px;
+    }
+    .service-right {
+        display:inline-block;
+        width:960px;
+        height:100%;
+        border:1px solid transparent;
+        margin-left:10px;
+    }
+
+    .top {
+        width:960px;
+        height:212px;
+        margin-bottom:10px;
+    }
+    .bottom {
+        width:100%;
+        height:212px;
+    }
+    .b1 {
+        width: 636px;
+        height:212px;
+    }
+
+
+
+/*  服务企业 结束*/

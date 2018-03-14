@@ -1,0 +1,83 @@
+.indexImg {
+    height:600px;
+}
+.indexImg img{
+    height:600px;
+}
+
+.honor-box {
+    width:100%;
+    /* height:1880px; */
+    background-color: #fff;
+    margin-top:60px;
+    margin-bottom:60px;
+    border:1px solid transparent;
+    padding-bottom:35px;
+}
+
+.welhonorfare {
+    margin-top:20px;
+}
+.honor>p{
+    height:50px;
+    line-height:50px;
+    font-size:18px;
+    color:#333;
+    font-family: "黑体";
+}
+.honor .lastp {
+    border-bottom:1px solid #ccc;
+}
+.lastp>span {
+    display:inline-block;
+    height:100%;
+    padding-right: 10px;
+    margin-right:15px;
+}
+.honor .line {
+    border-bottom:1px solid #182e46;
+}
+
+.honor-list {
+    /* border:1px solid red; */
+    margin-top:30px;
+}
+.left,.right {
+    display:inline-block;
+    width:623px;
+    vertical-align: top;
+    /* border:1px solid blue; */
+}
+.right {
+    margin-left:20px;
+}
+.small {
+    width: 623px;
+    height:350px;
+    margin-bottom:20px;
+}
+.big{
+    width: 623px;
+    height:723px; 
+    margin-bottom:20px;
+}
+
+.font {
+    width:100%;
+    /* border:1px solid red; */
+}
+.font p{
+    font-size:16px;
+    color:#333;
+    line-height:25px;
+}
+.font-left ,.font-right {
+    display:inline-block;
+    width:500px;
+    vertical-align: top;
+    /* border:1px solid blue; */
+}
+.font-right {
+    margin-left:215px;
+    
+}
